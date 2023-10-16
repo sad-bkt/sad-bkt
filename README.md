@@ -2,12 +2,14 @@
 
 My name is Nastya and
 - :frog: I’m currently studying AI at the ITMO university, you can read more about my education [here](https://github.com/sad-bkt/university_courses)
-- :memo::pencil: My [CV](https://spb.hh.ru/resume/cd1f8ffeff08a352980039ed1f695247626a42)
+- :memo: My [CV](https://spb.hh.ru/resume/cd1f8ffeff08a352980039ed1f695247626a42)
+<!--
 - 📫 How to reach me:
-[![Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=telegram&style=social)](https://t.me/sad_bkt) 
-<!-- [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/e) -->
-[![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:nasts2@yandex.ru)
 
+[![Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=telegram&style=social)](https://t.me/sad_bkt) 
+ [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/e) 
+[![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:nasts2@yandex.ru)
+-->
 
 - ⚡ Fun facts:
   - I made [short films](https://docs.google.com/document/d/1B-PvPDF0nUDWk2XlKFzf2MTn9jmP8q_dqGmShj4zc5A/edit) and worked a little as a photographer.
