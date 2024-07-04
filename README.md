@@ -15,9 +15,10 @@ My name is Nastya and
   - [Vacancies search](https://github.com/Tanchik24/vacancies_search)
 
 - :camera: CV (Computer Vision) projects:
-  - [Road signs detector](https://github.com/Wiaci/RoadSignsDetector)
+  - [Deep generative models course](https://github.com/sad-bkt/deep_generative_models_course)
   - [CV cource labs](https://github.com/sad-bkt/computer_vision_course)
   - [Prompt engineering for Stable Diffusion](https://github.com/sad-bkt/prompt_engineering)
+  - [Road signs detector](https://github.com/Wiaci/RoadSignsDetector)
 
 - 📫 How to reach me:
 
